@@ -13,5 +13,5 @@ The delete_snapshots_with_expired_retention_plan function retrieves the retentio
 
 The code also includes a test suite that tests and mock AWS usage.
 
-##Use
+##Use -
 to start the project it is necessary to install the libraries contained in requirements.txt and replace the secret values in get_secret()
